@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -7,4 +7,8 @@ title: Home
 
 안녕하세요!
 
-GitHub Pages와 Minima 테마로 만든 홈페이지입니다.
+Minima 테마를 적용한 개인 홈페이지입니다.
+
+## 자기소개
+
+저의 활동과 이야기를 기록하는 공간입니다.
